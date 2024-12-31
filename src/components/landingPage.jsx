@@ -80,7 +80,7 @@ const Homepage = () => {
             <div className="rounded-3xl overflow-hidden w-60   ">
               <img
                 src=".\src\assets\Document from Ayush.jpg" // Replace with your image paths
-                alt="Image 1"
+                alt="Image 2"
                 className="w-full h-full object-cover "
               />
             </div>
